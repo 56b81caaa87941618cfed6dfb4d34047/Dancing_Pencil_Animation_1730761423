@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "Pencil Pirouette",
+        "HERO_HEADING_TEXT": "Where Graphite Meets Grace",
+        "HERO_SUBHEADING_TEXT": "Discover the enchanting world of dancing pencils, where creativity twirls and imagination leaps across the page.",
+        "FOOTER_TEXT": "\u00a9 2023 Pencil Pirouette. Sketching joy, one dance step at a time."
+    }
+}
